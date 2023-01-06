@@ -91,14 +91,8 @@
 
 ### Built With
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+* [![FastAPI][FastAPI]][FastAPI-url]
+* [![Scrapli][Scrapli]][Scrapli-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -230,14 +224,14 @@ Project Link: [https://github.com/nonstdout/network_device_api](https://github.c
 [issues-shield]: https://img.shields.io/github/issues/nonstdout/network_device_api.svg?style=for-the-badge
 [issues-url]: https://github.com/nonstdout/network_device_api/issues
 [license-shield]: https://img.shields.io/github/license/nonstdout/network_device_api.svg?style=for-the-badge
-[license-url]: https://github.com/nonstdout/network_device_api/blob/master/LICENSE.txt
+[license-url]: https://github.com/nonstdout/network_device_api/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/chrissalisbury/
 [product-screenshot]: images/screenshot.png
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Next-url]: https://nextjs.org/
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
+[FastAPI]: images/logo-teal.png
+[FastAPI-url]: https://fastapi.tiangolo.com
+[Scrapli]: https://raw.githubusercontent.com/carlmontanari/scrapli/main/scrapli.svg
+[Scrapli-url]: https://github.com/carlmontanari/scrapli/blob/main
 [Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
 [Vue-url]: https://vuejs.org/
 [Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
