@@ -83,16 +83,10 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 ### Built With
 
-* [![FastAPI][FastAPI]][FastAPI-url]
-* [![Scrapli][Scrapli]][Scrapli-url]
+[![FastAPI][FastAPI]][FastAPI-url]
+[![Scrapli][Scrapli]][Scrapli-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -223,7 +217,7 @@ Project Link: [https://github.com/nonstdout/network_device_api](https://github.c
 [stars-url]: https://github.com/nonstdout/network_device_api/stargazers
 [issues-shield]: https://img.shields.io/github/issues/nonstdout/network_device_api.svg?style=for-the-badge
 [issues-url]: https://github.com/nonstdout/network_device_api/issues
-[license-shield]: https://img.shields.io/github/license/nonstdout/network_device_api.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/nonstdout/network_device_api/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/chrissalisbury/
