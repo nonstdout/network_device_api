@@ -1,13 +1,15 @@
-from fastapi import FastAPI, HTTPException
+from fastapi import Depends, FastAPI, HTTPException
+from fastapi.security import OAuth2PasswordBearer
 from pydantic import BaseModel
 from .connect_device import send_command, send_config
 import scrapli, os
 
 app = FastAPI()
 
+oauth2_scheme = OAuth2PasswordBearer(tokenUrl="token")
 
 @app.get("/")
-async def api_version():
+async def api_version(token: str = Depends(oauth2_scheme)):
     return {"message": "Network Device API"}
 
 @app.get("/{device_ip}/vlans/")
